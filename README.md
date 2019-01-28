@@ -1,4 +1,4 @@
-# Girl-Dress-面向帅气的吕孩子的项目QWQ
+# Girl-Dress-面向帅气的吕孩子的项目(-w-)
 
 
 
@@ -6,6 +6,7 @@
 具体操作可以参考->女装（？）项目：https://github.com/komeiji-satori/Dress
 
 
+Contributors
 
 License：
 CC-BY-NC-SA：署名-非商业性使用-相同方式共享
