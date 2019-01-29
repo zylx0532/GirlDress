@@ -1,4 +1,7 @@
 # Girl-Dress-面向帅气的吕孩子的项目(-w-)
+
+[![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
+
 ## 轻松入门GitHub项目
 Start to learn how to use Github.  
   
@@ -14,7 +17,7 @@ Anyway,it's not a bad thing to build this repo.
 Concrete method -> Original repo Dress https://github.com/komeiji-satori/Dress .   
 
 ## 不过还是自己简单说明一下  
-*Upload method*  
+***Upload method***
 1.点击右上角的*Fork*,让自己的repo列表里也有本项目  
 2.点击自己同名的项目，随意点进一个文件夹，点击 Upload file  
 3.将浏览器的文件夹名，改成自己喜欢的名字，并回车  
@@ -22,7 +25,7 @@ Concrete method -> Original repo Dress https://github.com/komeiji-satori/Dress .
 5.在项目页面左侧，点击 New pull requests//应该是这样叭，可以百度一下如何发起pull requests————  
 6.等我merge
 
-*Terminal method*
+***Terminal method***
 ```
 git clone https://github.com/我的用户名/Girl-Dress-.git                  # 克隆repo
 cd Girl-Dress-                                                         # 进入repo文件夹
@@ -32,7 +35,7 @@ git remote add upstream https://github.com/greenaway07/Girl-Dress-.git # 添加u
 git remove -v                                                          # 确保upstream分支添加完成
 ```
 
-*Sync repo method*
+***Sync repo method***
 ```
 git fetch upstream          # Pull upstream分支
 git checkout master         # Checkout master分支
@@ -48,5 +51,10 @@ https://github.com/greenaway07/Girl-Dress-/graphs/contributors
 ## License
   
 CC-BY-NC-SA：署名-非商业性使用-相同方式共享  图片的版权归属于其各自的作者 ***contributing*** 请注意保护个人隐私！！！
+
+Girl-Dress- is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
 
 好了，我自己忘记建一个文件夹了...但是就这样吧//逃
