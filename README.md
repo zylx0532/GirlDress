@@ -1,7 +1,7 @@
 # Girl-Dress-面向帅气的吕孩子的项目(-w-)
 
-[![Stars](https://img.shields.io/github/stars/badges/shields.svg?label=Stars&style=social)](https://github.com/greenaway07/Girl-Dress-)
-[![Forks](https://img.shields.io/github/forks/badges/shields.svg?label=Fork&style=social)](https://github.com/greenaway07/Girl-Dress-)
+[![Build Status][build-badge]][build]
+[![Star on GitHub][github-star-badge]][github-star]
 [![Contributors](https://img.shields.io/github/contributors/greenaway07/Girl-Dress-.svg)](https://github.com/greenaway07/Girl-Dress-/graphs/contributors)
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
 
