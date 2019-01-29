@@ -1,7 +1,7 @@
 # Girl-Dress-面向帅气的吕孩子的项目(-w-)
 
-[![Stars](https://img.shields.io/github/stars/greenaway07/Girl-Dress-.svg?label=Stars&style=social)](https://github.com/greenaway07/Girl-Dress-)
-[![Forks](https://img.shields.io/github/forks/greenaway07/Girl-Dress-.svg?label=Fork&style=social)](https://github.com/greenaway07/Girl-Dress-)
+[![Stars](https://img.shields.io/github/stars/greenaway07/Girl-Dress-.svg?label=Stars&style=social)](https://github.com/greenaway07/Girl-Dress-/stargazers)
+[![Forks](https://img.shields.io/github/forks/greenaway07/Girl-Dress-.svg?label=Fork&style=social)](https://github.com/greenaway07/Girl-Dress-/network/members)
 [![Contributors](https://img.shields.io/github/contributors/greenaway07/Girl-Dress-.svg)](https://github.com/greenaway07/Girl-Dress-/graphs/contributors)
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
 
