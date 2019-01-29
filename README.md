@@ -50,13 +50,9 @@ git merge upstream/master   # Merge upstream分支
   *请上传照片的小姐姐在github资料上留下邮箱，以便添加contributor to receive donation  
     不过open collective 设置有待完善*  
     
-    /*上传照片的contributor,第一个页面是Not Found*/
+ 
 [![contributors](https://opencollective.com/girl-dress-/contributors.svg?width=890&button=false)](https://github.com/greenaway07/Girl-Dress-/graphs/contributors)
-    
-    /*官网提供的显示donator的button*/
-  <script src="https://opencollective.com/girl-dress-/banner.js"></script>  
-   
-    /*进入open collective页面的blue button*/
+   <script src="https://opencollective.com/girl-dress-/banner.js"></script>  
 <a href="https://opencollective.com/girl-dress-?referral=28972" target="_blank">
   <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
 </a>  
@@ -74,9 +70,9 @@ work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
 ## appreciation
 ***神楽坂 覚々
 （komeiji-satori）***   
-  ***MarsXue***  
+   ***MarsXue***  
  
-  bangbang93
-  TAREZ
-  晓毒
-  ...and so on
+     bangbang93
+     TAREZ
+     晓毒
+    ...and so on
