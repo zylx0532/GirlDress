@@ -52,10 +52,10 @@ git merge upstream/master   # Merge upstream分支
     
  
 [![contributors](https://opencollective.com/girl-dress-/contributors.svg?width=890&button=false)](https://github.com/greenaway07/Girl-Dress-/graphs/contributors)
-   <script src="https://opencollective.com/girl-dress-/banner.js"></script>  
-<a href="https://opencollective.com/girl-dress-?referral=28972" target="_blank">
+   
+  <a href="https://opencollective.com/girl-dress-?referral=28972" target="_blank">
   <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
-</a>  
+  </a>  
   
 
 ## License
@@ -67,7 +67,7 @@ Girl-Dress- is licensed under a Creative Commons Attribution-ShareAlike 4.0 Inte
 You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
 
-## appreciation
+## Appreciation
 ***神楽坂 覚々
 （komeiji-satori）***   
    ***MarsXue***  
