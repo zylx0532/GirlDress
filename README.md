@@ -1,5 +1,6 @@
 # Girl-Dress-面向帅气的吕孩子的项目(-w-)
 
+[![Contributors](https://img.shields.io/github/contributors/greenaway07/Girl-Dress-.svg)](https://github.com/greenaway07/Girl-Dress-/graphs/contributors)
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
 
 ## 轻松入门GitHub项目
