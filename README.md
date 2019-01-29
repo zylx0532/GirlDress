@@ -46,7 +46,7 @@ git merge upstream/master   # Merge upstream分支
 有生之年系列喵=w=(并没有啦，不过还是希望有人和我一起做（逃）  
 
 ## Contributors
-https://github.com/greenaway07/Girl-Dress-/graphs/contributors  
+[![contributors](https://opencollective.com/girl-dress-/contributors.svg?width=890&button=false)](https://github.com/greenaway07/Girl-Dress-/graphs/contributors)
 
 ## License
   
