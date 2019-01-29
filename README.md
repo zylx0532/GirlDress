@@ -17,7 +17,8 @@ Anyway,it's not a bad thing to build this repo.
 Concrete method -> Original repo Dress https://github.com/komeiji-satori/Dress .   
 
 ## 不过还是自己简单说明一下  
-***Upload method***
+***Upload method***   
+
 1.点击右上角的*Fork*,让自己的repo列表里也有本项目  
 2.点击自己同名的项目，随意点进一个文件夹，点击 Upload file  
 3.将浏览器的文件夹名，改成自己喜欢的名字，并回车  
@@ -43,10 +44,16 @@ git merge upstream/master   # Merge upstream分支
 ```
 
 ## Demo  
-有生之年系列喵=w=(并没有啦，不过还是希望有人和我一起做（逃）  
+有生之年系列喵=w=(并没有啦，预订了WHU的高中同学一起做
 
 ## Contributors
 [![contributors](https://opencollective.com/girl-dress-/contributors.svg?width=890&button=false)](https://github.com/greenaway07/Girl-Dress-/graphs/contributors)
+  
+
+<a href="https://opencollective.com/girl-dress-?referral=28972" target="_blank">
+  <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
+</a>  
+
 
 ## License
   
@@ -57,4 +64,4 @@ Girl-Dress- is licensed under a Creative Commons Attribution-ShareAlike 4.0 Inte
 You should have received a copy of the license along with this
 work. If not, see <http://creativecommons.org/licenses/by-sa/4.0/>.
 
-好了，我自己忘记建一个文件夹了...但是就这样吧//逃
+感谢 晓毒 帮我建的文件夹（逃）
