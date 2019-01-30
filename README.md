@@ -19,9 +19,9 @@ Anyway,it's not a bad thing to build this repo.
 
 Concrete method -> Original repo Dress https://github.com/komeiji-satori/Dress .   
 
-## 不过还是自己简单说明一下    
+## 简单说明    
 
-### 再上传之前最好把图压缩一下，-issue -#14 MrASDB      
+### 上传之前最好把图压缩一下喵，-issue -#14 MrASDB      
 ***Upload method***   
 
 1.点击右上角的*Fork*,让自己的repo列表里也有本项目  
