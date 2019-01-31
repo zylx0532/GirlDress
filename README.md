@@ -10,7 +10,7 @@ Start to learn how to use Github easily
 ### 所以原先的本地对应仓库也要改.(according to gohom.win)    
 ```
 // 这里假设远程仓库本地命名为origin
-git remove -v                                                   // 列出所有远程仓库信息，包括网址
+git remove -v                                                    // 列出所有远程仓库信息，包括网址
 git remote set-url origin git@github.com:我的用户名/GirlDress.git // 修改远程仓库对应网址
 ``` 
 ## 看到女装的项目的issue建议妹子建一个男装的项目，但是考虑到github的女性用户数量貌似并不能达到女装的效果2333总之先建一个。
@@ -25,11 +25,11 @@ Anyway, it's not a bad thing to build this repo.
 Original repo -> [Dress](https://github.com/komeiji-satori/Dress)
 
 ## 简单说明
-### 上传之前最好把图[压缩](https://compressjpeg.com/)一下喵，-issue -#14 MrASDB
+### 上传之前最好把图[压缩](https://compressjpeg.com/)一下喵，[issue #14 MrASDB](https://github.com/greenaway07/GirlDress/issues/14)
 
 ***Upload method***   
 ```
-1.点击右上角的*Fork*,让自己的repo列表里也有本项目  
+1.点击右上角的*Fork*，让自己的repo列表里也有本项目  
 2.点击自己同名的项目，随意点进一个文件夹，点击 Upload file  
 3.将浏览器的文件夹名，改成自己喜欢的名字，并回车  
 4.然后就可以上传照片啦，并提交  
@@ -61,11 +61,10 @@ git merge upstream/master   # Merge upstream分支
 *请上传照片的小姐姐在github资料上留下邮箱，以便添加contributor to receive donation*
 [![contributors](https://opencollective.com/girl-dress-/contributors.svg?width=890&button=false)](https://github.com/greenaway07/Girl-Dress-/graphs/contributors)
    
-  <a href="https://opencollective.com/girl-dress-?referral=28972" target="_blank">
-  <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
-  </a>  
+<a href="https://opencollective.com/girl-dress-?referral=28972" target="_blank">
+<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
+</a>  
   
-
 ## License
 CC BY-SA 4.0：署名-非商业性使用-相同方式共享  图片的版权归属于其各自的作者 ***contributing*** 请注意保护个人隐私！！！
 
