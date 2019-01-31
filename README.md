@@ -7,7 +7,14 @@
 
 ## 轻松入门GitHub使用
 Start to learn how to use Github easily .
-  
+### 原名 Girl-Dress-    ->现更名为 GirlDress ,不过两个地址都是可定向到这个页面的.    
+### 所以原先的本地对应仓库也要改.(according to gohom.win)    
+```
+//这里假设远程仓库本地命名为origin
+git remove -v //列出所有远程仓库信息，包括网址
+git remote set-url origin
+git@github.com:usename/newrepo.git //修改远程仓库对应网址
+``` 
 ## 看到女装的项目的issue建议妹子建一个男装的项目，  但是考虑到github的女性用户   数量貌似并不能达到女装的效果2333总之先建一个。
 具体操作可以参考->女装（？）项目：https://github.com/komeiji-satori/Dress  
 
