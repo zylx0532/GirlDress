@@ -6,6 +6,9 @@
 
 ## 轻松入门GitHub使用
 Start to learn how to use Github easily
+## Demo  
+现已加入女装豪华套餐（雾）From [神楽坂雅詩](https://github.com/kagurazakayashi)
+https://www.yoooooooooo.com/gitdress/
 ### 原名 Girl-Dress- ->现更名为 GirlDress ,不过两个地址都是可定向到这个页面的.    
 ### 所以原先的本地对应仓库也要改.(according to gohom.win)    
 ```
@@ -54,8 +57,6 @@ git checkout master         # Checkout master分支
 git merge upstream/master   # Merge upstream分支
 ```
 
-## Demo  
-有生之年系列喵=w=(并没有啦，预订了WHU的高中同学一起做
 
 ## Contributors
 *请上传照片的小姐姐在github资料上留下邮箱，以便添加contributor to receive donation*
@@ -76,6 +77,8 @@ You should have received a copy of the license along with this work. If not, see
 ***神楽坂 覚々
 （komeiji-satori）***   
    ***MarsXue***  
+   ***神楽坂雅詩***   
+   
  
      bangbang93
      TAREZ
