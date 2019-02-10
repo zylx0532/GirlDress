@@ -77,11 +77,6 @@ git merge upstream/master   # Merge upstream分支
 
 [![donate](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/girl-dress-?referral=28972)
 
-
-<a href="https://opencollective.com/girl-dress-?referral=28972" target="_blank">
-<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
-</a>  
-  
 ## License
 
 CC BY-SA 4.0：署名-非商业性使用-相同方式共享  图片的版权归属于其各自的作者 ***contributing*** 请注意保护个人隐私！！！
