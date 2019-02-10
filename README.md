@@ -77,7 +77,6 @@ git merge upstream/master   # Merge upstream分支
 
 [![donate](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/girl-dress-?referral=28972)
 
-[!donate]("https://opencollective.com/girl-dress-?referral=28972")
 
 <a href="https://opencollective.com/girl-dress-?referral=28972" target="_blank">
 <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
