@@ -74,8 +74,9 @@ git merge upstream/master   # Merge upstream分支
 
 *请上传照片的小姐姐在github资料上留下邮箱，以便添加contributor to receive donation*
 [![contributors](https://opencollective.com/girl-dress-/contributors.svg?width=890&button=false)](https://github.com/greenaway07/Girl-Dress-/graphs/contributors)
-
-[![donate](https://opencollective.com/webpack/donate/button.png?color=blue)](https://opencollective.com/girl-dress-?referral=28972)
+<a href="https://opencollective.com/girl-dress-?referral=28972" target="_blank">
+<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
+</a>  
 
 ## License
 
