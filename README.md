@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/greenaway07/Girl-Dress-.svg?label=Stars&style=social)](https://github.com/greenaway07/Girl-Dress-/stargazers)
 [![Forks](https://img.shields.io/github/forks/greenaway07/Girl-Dress-.svg?label=Fork&style=social)](https://github.com/greenaway07/Girl-Dress-/network/members)
 [![Contributors](https://img.shields.io/github/contributors/greenaway07/Girl-Dress-.svg)](https://github.com/greenaway07/Girl-Dress-/graphs/contributors)
-[![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
+[![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## 轻松入门GitHub使用
 
@@ -12,9 +12,9 @@ Start to learn how to use Github easily
 ## Demo
 
 现已加入女装豪华套餐（雾）From [神楽坂雅詩](https://github.com/kagurazakayashi)
-https://www.yoooooooooo.com/gitdress/
+<https://www.yoooooooooo.com/gitdress/>
 
-### 原名 Girl-Dress- ->现更名为 GirlDress ,不过两个地址都是可定向到这个页面的.
+### 原名 Girl-Dress- ->现更名为 GirlDress ,不过两个地址都是可定向到这个页面的
 
 ### 所以原先的本地对应仓库也要改.(according to gohom.win)
 
@@ -22,15 +22,15 @@ https://www.yoooooooooo.com/gitdress/
 // 这里假设远程仓库本地命名为origin
 git remove -v                                                    // 列出所有远程仓库信息，包括网址
 git remote set-url origin git@github.com:我的用户名/GirlDress.git // 修改远程仓库对应网址
-``` 
+```
 
 ## 看到女装的项目的issue建议妹子建一个男装的项目，但是考虑到github的女性用户数量貌似并不能达到女装的效果2333总之先建一个。
 
 具体操作可以参考 -> [女装](https://github.com/komeiji-satori/Dress)（？）
 
-After viewing the repo of dalao komeji-satori "Dress",   
+After viewing the repo of dalao komeji-satori "Dress",
 whose issue said "suggest a girl build a repo owing to girls in male dress."  
-So I build one.    
+So I build one.
 But the scale of female users in GitHub is less than male, I don't think this repo will achieve original repo.  
 Anyway, it's not a bad thing to build this repo.  
 
@@ -74,8 +74,9 @@ git merge upstream/master   # Merge upstream分支
 
 *请上传照片的小姐姐在github资料上留下邮箱，以便添加contributor to receive donation*
 [![contributors](https://opencollective.com/girl-dress-/contributors.svg?width=890&button=false)](https://github.com/greenaway07/Girl-Dress-/graphs/contributors)
-
-[![donate](https://opencollective.com/webpack/donate/button@2x.png?color=blue)](https://opencollective.com/girl-dress-?referral=28972)
+<a href="https://opencollective.com/girl-dress-?referral=28972" target="_blank">
+<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
+</a>  
 
 ## License
 
