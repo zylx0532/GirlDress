@@ -21,7 +21,7 @@ Start to learn how to use Github easily
 ```
 // 这里假设远程仓库本地命名为origin
 git remove -v                                                    // 列出所有远程仓库信息，包括网址
-git remote set-url origin git@github.com:我的用户名/GirlDress.git // 修改远程仓库对应网址
+git remote set-url origin git@github.com:我的用户名/GirlDress.git // 修改远程仓库对应网址
 ```
 
 ## 看到女装的项目的issue建议妹子建一个男装的项目，但是考虑到github的女性用户数量貌似并不能达到女装的效果2333总之先建一个。
