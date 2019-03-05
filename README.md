@@ -9,6 +9,9 @@
 
 Start to learn how to use Github easily
 
+## Mirror
+仅clone, fetch, pull [chang196700](https://github.com/chang196700)
+https://git.chang-feng.info/mirror/GirlDress.git
 ## Demo
 
 现已加入女装豪华套餐（雾）From [神楽坂雅詩](https://github.com/kagurazakayashi)
