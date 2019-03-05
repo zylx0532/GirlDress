@@ -10,12 +10,12 @@
 Start to learn how to use Github easily
 
 ## Mirror
-仅clone, fetch, pull [chang196700](https://github.com/chang196700)
-https://git.chang-feng.info/mirror/GirlDress.git
+仅clone, fetch, pull 创建自[chang196700](https://github.com/chang196700)
+     https://git.chang-feng.info/mirror/GirlDress.git
 ## Demo
 
 现已加入女装豪华套餐（雾）From [神楽坂雅詩](https://github.com/kagurazakayashi)
-<https://www.yoooooooooo.com/gitdress/>
+    <https://www.yoooooooooo.com/gitdress/>
 
 ### 原名 Girl-Dress- ->现更名为 GirlDress ,不过两个地址都是可定向到这个页面的
 
