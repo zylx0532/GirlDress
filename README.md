@@ -62,7 +62,7 @@ cd Girl-Dress-                                                         # 进入r
 mkdir 我的用户名                                                         # 创建自己的文件夹
 cd 我的用户名                                                            # 进入自己的文件夹
 git remote add upstream https://github.com/greenaway07/Girl-Dress-.git # 添加upstream分支
-git remove -v                                                          # 确保upstream分支添加完成
+git remote -v                                                          # 确保upstream分支添加完成
 ```
 
 ***Sync repo method***
