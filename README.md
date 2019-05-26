@@ -23,7 +23,7 @@ Start to learn how to use Github easily
 
 ```
 // 这里假设远程仓库本地命名为origin
-git remove -v                                                    // 列出所有远程仓库信息，包括网址
+git remote -v                                                    // 列出所有远程仓库信息，包括网址
 git remote set-url origin git@github.com:我的用户名/GirlDress.git // 修改远程仓库对应网址
 ```
 
